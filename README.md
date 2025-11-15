@@ -7,10 +7,10 @@ A Flutter project created for the Mobile Programming course.
 ## 📱 UI/UX Screenshots
 
 ### uiux1
-![uiux1](assets/screenshot/uiux1.png)
+![uiux1](assets/screenshot/uiux.png)
 
 ### uiux2
-![uiux2](assets/screenshot/uiux2.png)
+![uiux2](assets/screenshot/uiux_.png)
 
 ---
 
