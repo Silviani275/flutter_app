@@ -6,11 +6,11 @@ A Flutter project created for the Mobile Programming course.
 
 ## 📱 UI/UX Screenshots
 
-### uiux1
-![uiux1](assets/screenshot/uiux.png)
+### Home Screen
+![Home Screen](assets/screenshot/home.png)
 
-### uiux2
-![uiux2](assets/screenshot/uiux_.png)
+### Transaction Screen
+![Transaction Screen](assets/screenshot/transact.png)
 
 ---
 
@@ -25,5 +25,3 @@ Here are some useful resources:
 
 For detailed Flutter documentation, visit the  
 [official Flutter docs](https://docs.flutter.dev/).
-
----
